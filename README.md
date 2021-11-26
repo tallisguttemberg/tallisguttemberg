@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tallisguttemberg
 - 👀 I’m interested in DevOps ou SRE
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning GIT e GITHUB
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
