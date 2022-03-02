@@ -1,6 +1,6 @@
  Olá, sou @tallisguttemberg
  Estou interessado em DevOps ou SRE
- Atualmente estou aprendendo GIT e GITHUB
+ Atualmente estou aprendendo VAGRANT e ANSIBLE
  Procuro colaborar na Infraestrutura
  Como entrar em contato comigo +55 88 997439783 ou tallysguimaraes@gmail.com
 
